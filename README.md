@@ -15,7 +15,7 @@ Dodo Mobile Game is a fun mobile game designed for players who want an exciting 
 ## Play the Game
 Play Dodo Mobile Game here:
 
-https://jerrypra160-ops.github.io/Dodo-mobile-game-/
+https://jerrypra160-ops./Dodo-mobile-game-/
 
 ## Developer
 Created by Jerry Praise
